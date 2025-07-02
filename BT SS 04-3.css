@@ -1,0 +1,28 @@
+* {
+  margin: 5;
+  padding: 5;
+  box-sizing: border-box;
+}
+
+input {
+    width: 300px;
+    margin-left: 30px;
+}   
+
+textarea {
+    width: 300px;
+    margin-left: 30px;
+}   
+
+button {
+    width: 300px;
+    background-color: green;
+    color: white;
+    border-radius: 4px;
+    margin-left: 30px;
+}
+
+label {
+    margin-left: 30px;
+}    
+
