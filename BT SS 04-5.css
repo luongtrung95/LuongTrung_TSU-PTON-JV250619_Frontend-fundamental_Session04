@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+div {
+    background-color: #fffdd0;
+    border-left: 5px solid #ffa602;
+    padding: 15px;
+}
+
+span {
+    color: #ffa602;
+}
