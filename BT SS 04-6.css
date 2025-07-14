@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+.ndung {
+  margin-left: 220px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding-left: 10px;
+}
+
+.sidebar ul li {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.sidebar ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+.sidebar ul li:hover {
+  background-color: #00bf4a;
+  a {
+    color: white;
+  }
+}
+
+.sidebar {
+  position: fixed;
+  background-color: #f1f1f1;
+  width: 200px;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  padding: 5px;
+}
